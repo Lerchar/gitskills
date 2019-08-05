@@ -1,5 +1,6 @@
 gitskills test
 Creating a new branch is quick and simple.
 test
+<<<<<<< HEAD
 aaaaaaa
-bug
+
